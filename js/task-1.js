@@ -1,6 +1,6 @@
 "use stript";
 
- //tack 1
+ //task 1
 //  оголошення функціі з параметрами quantity, pricePerDroid 
 function makeTransaction(quantity, pricePerDroid) {
 

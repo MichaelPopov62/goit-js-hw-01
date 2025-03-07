@@ -1,6 +1,6 @@
 "use stript";
 
-//tack 3
+//task 3
 //  оголошення функціі з параметрами content, padding, border
 function getElementWidth(content, padding, border) {
   

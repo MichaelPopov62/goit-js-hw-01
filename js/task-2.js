@@ -1,6 +1,6 @@
 "use stript";
 
-//tack 2
+//task 2
 // оголошуємо функцію з параметрами country, price , deliveryFee
 function getShippingMessage(country, price, deliveryFee) {
   
